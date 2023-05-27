@@ -1,6 +1,6 @@
 # Human Disease Network
 
-A network analysis university project, where we created a network, where edges represented associations between genes and deseases. 
+A network analysis university project, where we investigated human deseases. In the network, edges represented associations between genes and deseases. The graph was bipartite, undirected, and unweighted with attributes.
 
 ## Our research question:
 > If we could treat gene mutations with the [CRISPR](https://crisprtx.com/gene-editing/crispr-cas9) method, which genes should be targeted first?
